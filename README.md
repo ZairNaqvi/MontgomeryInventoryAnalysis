@@ -1,5 +1,4 @@
 # MontgomeryInventoryAnalysis
-Vehicle Fleet Inventory Analysis
 Part 1: Data Preparation
 In Part 1, I transformed the raw data into a clean and structured format suitable for analysis. This involved:
 
